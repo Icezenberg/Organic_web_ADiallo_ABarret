@@ -1,0 +1,164 @@
+
+
+
+
+
+
+header{
+    width: 100%;
+    height: 1000px;
+    background:url(../img/home.jpg);
+    background-repeat: no-repeat;
+    background-size: cover; 
+  
+} 
+/*-------------nav----------*/
+
+nav{
+   display: flex;
+   justify-content: flex-end; 
+ 
+} 
+ul{
+    display: flex;
+    flex-direction: row;
+    width: 600px;
+   
+    
+} 
+li {
+    list-style-type: none;
+    padding: 10px;
+
+} 
+a{
+    text-decoration: none;
+    
+} 
+
+.divheader{
+    width: 60%;
+    margin: 0 auto;
+    display: flex;
+    flex-direction:column;
+    text-align: center;
+    margin-top: 300px;
+  
+} 
+
+span{
+    width: 200px;
+    background: #424242;
+    padding: 10px;
+} 
+
+
+.section1{
+    width: 100%;
+    height: 900px;
+    background: #424242;
+} 
+.service{
+        width: 60%;
+        margin: 0 auto;
+        display: flex;
+        flex-direction:column;
+        text-align: center;
+        padding-top: 100px;
+      
+    } 
+
+.section2{
+    width: 60%;
+    margin:0 auto;
+    display: flex;
+    flex-wrap:wrap;
+    align-items: center;
+} 
+    
+article{
+width: 20%;
+   margin: 20px;
+   padding: 40px;
+   border: solid 1px #8e8b8b;
+}
+
+.section3{
+    width: 100%;
+    height:550px;
+    background: url(../img/home.jpg);
+    background-repeat: no-repeat;
+    background-size: cover; 
+    background-position-y:center;
+    display: flex;
+    align-items: center;
+} 
+
+.divsection3{
+    width: 60%;
+    height: 200px;
+    margin-left: 20%;
+    margin-right: 20%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-content: center;
+} 
+
+.count{
+    width: 20%;
+    padding: 10px;
+    border: solid 1px #8e8b8b;
+    text-align: center;
+} 
+.section4{
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+
+.divsection4{
+    width: 30%;
+    height: 200px;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+} 
+.section1-1{
+    width: 100%;
+    height: 450px;
+    background: #424242;
+} 
+.etiquette{
+    width: 20%;
+    padding: 10px;
+    border: solid 1px #8e8b8b;
+    text-align: center;
+} 
+.section5{
+    width: 100%;
+
+} 
+
+.subsect5{
+    width: 90%;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap:wrap;
+    align-items: center;
+} 
+
+
+.art2{
+    width: 100%;
+    margin-left: 0%;
+    padding: 0px;
+    border: solid 1px #8e8b8b;
+    display: flex;
+    justify-content: space-between;
+    border: none;
+
+} 
+
